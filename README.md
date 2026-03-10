@@ -534,7 +534,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](./LICEN
 
 <div align="center">
 
-**Built with ❤️ by a Machine Learning Engineer**
+**Built with ❤️ by a Ishan Shirode**
 
 *If you find this project useful, please ⭐ star the repository — it helps others discover it!*
 
